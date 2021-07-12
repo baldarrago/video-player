@@ -63,3 +63,17 @@ body {
 .player-overlay:hover{
     opacity: 100;
 }
+
+.ellipse1 {
+    position: absolute;
+    inset-inline-end: 0;
+    inset-block-end: 0;
+    max-inline-size: 50%;
+}
+  
+.ellipse2 {
+    position: absolute;
+    inset-inline-start: 0;
+    inset-block-start: 0;
+    max-inline-size: 50%;
+}
